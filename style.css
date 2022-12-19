@@ -1,0 +1,32 @@
+div {
+    
+    border: 5px solid rgb(179, 235, 157);
+    margin-left: 15%;
+    border-radius: 10px;
+    width: 70%;
+    height: 600px
+}
+img {
+    position: absolute;
+    float: left;
+    width: 35%;
+    height: 600px
+    
+}
+p{
+    font-size:larger;
+    font-weight: 700;
+    float: right;
+    color: rgba(190, 187, 7, 0.863);
+    width: 30%;
+    padding-right: 8%;
+    padding-top: 18%;
+
+}
+span{
+    
+    padding-left:12.5%;
+    border-bottom: 0px;
+    margin-left: 0%;
+}
+
